@@ -1,4 +1,4 @@
-from pyautogui import *
+from pyautogui import press,typewrite,countdown,sleep,click
 from random import choice,randint
 from webbrowser import open
 def pressTab():
